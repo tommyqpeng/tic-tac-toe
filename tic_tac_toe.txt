@@ -1,0 +1,11 @@
+6 6
+no_color coord 0 0 1
+no_color coord 1 0 2
+no_color coord 2 0 3
+no_color coord 3 0 4
+no_color coord 4 0 5
+no_color coord 0 1 0
+no_color coord 1 2 0
+no_color coord 2 3 0
+no_color coord 3 4 0
+no_color coord 4 5 0
